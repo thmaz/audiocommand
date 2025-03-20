@@ -1,10 +1,13 @@
+## audiocommand 
 Repository for a "proof of concept" of a convolutional neural network for speech pattern recognition. For details see the folder "docs".
 
 How to run:
+```
 $ cd audiocommand
 $ python -m venv .venv
 $ source .venv/bin/activate
 $ pip install -r requirements.txt
+```
 
 Source dataset:
 https://www.kaggle.com/datasets/antfilatov/mini-speech-commands
