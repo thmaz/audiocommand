@@ -18,5 +18,9 @@ https://pytorch.org/get-started/locally/
 Pytorch audio tutorial:
 https://pytorch.org/tutorials/intermediate/speech_command_classification_with_torchaudio_tutorial.html
 
+Using CNN for audio classification in pytorch:
+https://medium.com/@mlg.fcu/using-python-to-classify-sounds-a-deep-learning-approach-ef00278bb6ad
+
 Convolutional Neural Networks:
 https://poloclub.github.io/cnn-explainer/
+https://cs231n.github.io/convolutional-networks/
